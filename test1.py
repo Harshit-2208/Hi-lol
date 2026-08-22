@@ -10,9 +10,3 @@ elif(c == "subtract" or c == "-"):
 
 elif(c == "divide" or c == "/"):
     print(a / b)
-
-elif(c == "multiply" or c == "*"):
-    print(a * b)
-
-else:
-    print("Invalid operation")
